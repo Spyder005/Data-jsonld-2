@@ -5,13 +5,13 @@ const cors = require('cors');
 const app = express();
 const port = 3000;
 
-// Enable CORS for all origins and credentials
+
 app.use(cors({ origin: true, credentials: true }));
 
-// Serve static files (for .jsonld files)
+
 app.use('/data', express.static(path.resolve(__dirname, 'data')));
 
-// Serve JSON-LD data for specific routes
+
 app.get('/blog', (req, res) => {
   res.sendFile(path.resolve(__dirname, 'data', 'blog.jsonld'));
 });
@@ -24,11 +24,24 @@ app.get('/testimonial', (req, res) => {
   res.sendFile(path.resolve(__dirname, 'data', 'testimonial.jsonld'));
 });
 
-app.get('/', (req, res) => {
+app.get('/about', (req, res) => {
   res.sendFile(path.resolve(__dirname, 'data', 'about.jsonld'));
 });
 
-// Start the server
+app.get('/industries', (req, res) => {
+  res.sendFile(path.resolve(__dirname, 'data', 'industries.jsonld'));
+});
+
+app.get('/services', (req, res) => {
+  res.sendFile(path.resolve(__dirname, 'data', 'services.jsonld'));
+});
+
+app.get('/faqs', (req, res) => {
+  res.sendFile(path.resolve(__dirname, 'data', 'faqs.jsonld'));
+});
+
+
+
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });

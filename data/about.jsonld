@@ -1,9 +1,56 @@
 {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Our Company",
-    "url": "http://ourcompany.com",
-    "logo": "http://ourcompany.com/logo.png",
-    "description": "We are dedicated to providing the best service."
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "UR AI Mastermindz",
+  "description": "UR AI Mastermindz is committed to delivering cutting-edge AI and IT solutions with transparency and a client-first approach.",
+  "aboutAtGlance": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "CreativeWork",
+        "name": "Innovation with Integrity",
+        "description": "At UR AI Mastermindz, we are committed to delivering cutting-edge AI and IT solutions with transparency and a client-first approach. Our long-term relationships with clients are built on trust, innovation, and a shared vision for success.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "/assets/Images/About/uam-at-glance-1.jpeg"
+        }
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "Our Road-map to Success",
+        "description": "Our strategic roadmap is aligned with emerging technologies, ensuring that we remain at the forefront of innovation. We set clear, measurable goals that lead to scalable solutions, helping our clients achieve sustained growth.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "/assets/Images/About/uam-at-glance-2.jpeg"
+        }
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "Understanding the Digital Landscape",
+        "description": "In a rapidly changing digital world, we understand the need to stay agile and adaptive. By continuously monitoring technological trends and customer needs, we tailor our solutions to meet real-world business challenges.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "/assets/Images/About/uam-at-glance-3.jpeg"
+        }
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "Our Core Beliefs",
+        "description": "We believe in the transformative power of AI and IT. Our core values — integrity, innovation, and excellence — guide us in delivering solutions that drive business impact while staying responsible and ethical.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "/assets/Images/About/uam-at-glance-4.jpeg"
+        }
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "Stories of Impact",
+        "description": "At UR AI Mastermindz, every project is a story of collaboration and success. Our stories highlight the innovative solutions we've developed to solve real problems and empower businesses in various industries.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "/assets/Images/About/uam-at-glance-5.jpeg"
+        }
+      }
+    ]
   }
-  
+}

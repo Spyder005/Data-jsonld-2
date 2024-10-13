@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "UR AI Mastermindz",
+  "description": "UR AI Mastermindz is committed to delivering cutting-edge AI and IT solutions with transparency and a client-first approach.",
+    "services": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "Product",
+          "name": "Artificial Intelligence",
+          "description": "Artificial Intelligence (AI) is revolutionizing how businesses operate across various sectors. With capabilities like natural language processing, computer vision, and automation, AI enables companies to analyze vast amounts of data, optimize processes, and make informed decisions. By integrating AI solutions, organizations can improve efficiency, enhance user experience, and drive innovation.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "/images/services/ai.jpg"
+          },
+          "additionalType": "https://schema.org/Service",
+          "offers": {
+            "@type": "Offer",
+            "url": "/services/ai",
+            "name": "Learn More"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Machine Learning",
+          "description": "Machine Learning (ML) is a subset of AI that focuses on developing algorithms that allow computers to learn from data. By leveraging historical data, organizations can create predictive models that provide insights into future trends, customer behavior, and operational efficiency.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "/images/services/ml.jpg"
+          },
+          "additionalType": "https://schema.org/Service",
+          "offers": {
+            "@type": "Offer",
+            "url": "/services/ml",
+            "name": "Discover More"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Internet of Things",
+          "description": "The Internet of Things (IoT) represents a paradigm shift in how devices communicate and interact with each other. By connecting everyday objects to the internet, IoT enables real-time data exchange, enhancing efficiency and automation in various sectors.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "/images/services/iot.jpg"
+          },
+          "additionalType": "https://schema.org/Service",
+          "offers": {
+            "@type": "Offer",
+            "url": "/services/iot",
+            "name": "Explore IoT Solutions"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Web 3.0",
+          "description": "Web 3.0 is the next evolution of the internet, characterized by decentralized networks and blockchain technology. It empowers users by giving them control over their data and online identities.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "/images/services/web3.jpg"
+          },
+          "additionalType": "https://schema.org/Service",
+          "offers": {
+            "@type": "Offer",
+            "url": "/services/web3",
+            "name": "Get Started with Web 3.0"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "NFT Services",
+          "description": "Non-Fungible Tokens (NFTs) have emerged as a revolutionary way to buy, sell, and trade digital assets. Our NFT services cater to artists, collectors, and businesses looking to enter the NFT marketplace.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "/images/services/nfts.jpg"
+          },
+          "additionalType": "https://schema.org/Service",
+          "offers": {
+            "@type": "Offer",
+            "url": "/services/nfts",
+            "name": "Learn About NFTs"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Blockchain Solutions",
+          "description": "Blockchain technology is transforming industries by providing secure, transparent, and decentralized systems for managing transactions.",
+          "image": {
+            "@type": "ImageObject",
+            "url": "/images/services/blockchain.jpg"
+          },
+          "additionalType": "https://schema.org/Service",
+          "offers": {
+            "@type": "Offer",
+            "url": "/services/blockchain",
+            "name": "Explore Blockchain Solutions"
+          }
+        }
+      ]
+    }
+  }
+  

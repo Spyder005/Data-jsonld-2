@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "UR AI Mastermindz",
+  "description": "UR AI Mastermindz is committed to delivering cutting-edge AI and IT solutions with transparency and a client-first approach.",
+  "industries": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "Product",
+          "name": "Banking Solutions",
+          "description": "We offer innovative AI-driven banking solutions to help financial institutions stay competitive, improve customer experiences, and enhance security. Our services are designed to streamline processes, reduce operational costs, and provide real-time insights into financial data.",
+          "image": "https://via.placeholder.com/800x400.png?text=Banking",
+          "additionalType": "https://schema.org/FinancialService",
+          "subtitle": "Transforming Financial Services"
+        },
+        {
+          "@type": "Product",
+          "name": "Healthcare Innovation",
+          "description": "Our healthcare solutions leverage AI and machine learning to streamline operations, improve patient care, and drive medical breakthroughs.",
+          "image": "https://via.placeholder.com/800x400.png?text=Healthcare",
+          "additionalType": "https://schema.org/HealthAndBeautyBusiness",
+          "subtitle": "Revolutionizing Patient Care"
+        },
+        {
+          "@type": "Product",
+          "name": "Educational Transformation",
+          "description": "We develop cutting-edge tools and platforms for the education sector, enhancing both traditional and digital learning environments.",
+          "image": "https://via.placeholder.com/800x400.png?text=Education",
+          "additionalType": "https://schema.org/EducationalOrganization",
+          "subtitle": "Shaping the Future of Learning"
+        },
+        {
+          "@type": "Product",
+          "name": "Manufacturing 4.0",
+          "description": "Our Industry 4.0 solutions enable manufacturers to optimize production processes and adopt smart factory technologies.",
+          "image": "https://via.placeholder.com/800x400.png?text=Manufacturing",
+          "additionalType": "https://schema.org/Organization",
+          "subtitle": "Optimizing Production"
+        },
+        {
+          "@type": "Product",
+          "name": "Retail Reinvention",
+          "description": "We help retailers innovate through AI-powered customer insights, personalized experiences, and supply chain optimization.",
+          "image": "https://via.placeholder.com/800x400.png?text=Retail",
+          "additionalType": "https://schema.org/Retail",
+          "subtitle": "Driving Customer Engagement"
+        },
+        {
+          "@type": "Product",
+          "name": "Logistics Transformation",
+          "description": "We deliver AI-driven solutions to optimize supply chains, enhance customer service, and improve logistics operations.",
+          "image": "https://via.placeholder.com/800x400.png?text=Travel+and+Logistics",
+          "additionalType": "https://schema.org/DeliveryService",
+          "subtitle": "Revolutionizing Global Supply Chains"
+        },
+        {
+          "@type": "Product",
+          "name": "Life Sciences Innovation",
+          "description": "Our solutions empower the life sciences industry with AI tools for research, drug discovery, and operational efficiency.",
+          "image": "https://via.placeholder.com/800x400.png?text=Life+Sciences",
+          "additionalType": "https://schema.org/MedicalOrganization",
+          "subtitle": "Accelerating Medical Research"
+        },
+        {
+          "@type": "Product",
+          "name": "Technology Evolution",
+          "description": "We provide IT companies with scalable solutions to harness AI, blockchain, and IoT for enhanced service delivery.",
+          "image": "https://via.placeholder.com/800x400.png?text=Technology",
+          "additionalType": "https://schema.org/TechnologyCompany",
+          "subtitle": "Leading the Digital Revolution"
+        },
+        {
+          "@type": "Product",
+          "name": "Consumer-Centric Innovation",
+          "description": "Our AI-driven solutions help consumer service companies offer personalized experiences and increase customer loyalty.",
+          "image": "https://via.placeholder.com/800x400.png?text=Consumer+Services",
+          "additionalType": "https://schema.org/ConsumerService",
+          "subtitle": "Elevating Customer Experiences"
+        },
+        {
+          "@type": "Product",
+          "name": "Insurance Reimagined",
+          "description": "We enable insurance companies to optimize operations, enhance underwriting processes, and better serve customers.",
+          "image": "https://via.placeholder.com/800x400.png?text=Insurance",
+          "additionalType": "https://schema.org/InsuranceAgency",
+          "subtitle": "Transforming Risk Management"
+        },
+        {
+          "@type": "Product",
+          "name": "Energy Transformation",
+          "description": "Our AI and IoT solutions empower the energy sector to improve efficiency, reduce costs, and adopt sustainable practices.",
+          "image": "https://via.placeholder.com/800x400.png?text=Energy",
+          "additionalType": "https://schema.org/Energy",
+          "subtitle": "Powering a Sustainable Future"
+        }
+      ]
+    }
+  }
+  
