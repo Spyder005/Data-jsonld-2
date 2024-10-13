@@ -12,7 +12,8 @@
           "description": "Artificial Intelligence (AI) is revolutionizing how businesses operate across various sectors. With capabilities like natural language processing, computer vision, and automation, AI enables companies to analyze vast amounts of data, optimize processes, and make informed decisions. By integrating AI solutions, organizations can improve efficiency, enhance user experience, and drive innovation.",
           "image": {
             "@type": "ImageObject",
-            "url": "/images/services/ai.jpg"
+          
+              "url":"https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg"
           },
           "additionalType": "https://schema.org/Service",
           "offers": {
@@ -27,7 +28,7 @@
           "description": "Machine Learning (ML) is a subset of AI that focuses on developing algorithms that allow computers to learn from data. By leveraging historical data, organizations can create predictive models that provide insights into future trends, customer behavior, and operational efficiency.",
           "image": {
             "@type": "ImageObject",
-            "url": "/images/services/ml.jpg"
+           "url":"https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg"
           },
           "additionalType": "https://schema.org/Service",
           "offers": {
@@ -42,7 +43,7 @@
           "description": "The Internet of Things (IoT) represents a paradigm shift in how devices communicate and interact with each other. By connecting everyday objects to the internet, IoT enables real-time data exchange, enhancing efficiency and automation in various sectors.",
           "image": {
             "@type": "ImageObject",
-            "url": "/images/services/iot.jpg"
+           "url":"https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg"
           },
           "additionalType": "https://schema.org/Service",
           "offers": {
@@ -57,7 +58,7 @@
           "description": "Web 3.0 is the next evolution of the internet, characterized by decentralized networks and blockchain technology. It empowers users by giving them control over their data and online identities.",
           "image": {
             "@type": "ImageObject",
-            "url": "/images/services/web3.jpg"
+            "url":"https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg"
           },
           "additionalType": "https://schema.org/Service",
           "offers": {
@@ -72,7 +73,7 @@
           "description": "Non-Fungible Tokens (NFTs) have emerged as a revolutionary way to buy, sell, and trade digital assets. Our NFT services cater to artists, collectors, and businesses looking to enter the NFT marketplace.",
           "image": {
             "@type": "ImageObject",
-            "url": "/images/services/nfts.jpg"
+            "url":"https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg"
           },
           "additionalType": "https://schema.org/Service",
           "offers": {
@@ -87,7 +88,7 @@
           "description": "Blockchain technology is transforming industries by providing secure, transparent, and decentralized systems for managing transactions.",
           "image": {
             "@type": "ImageObject",
-            "url": "/images/services/blockchain.jpg"
+           "url":"https://thefusioneer.com/wp-content/uploads/2023/11/5-AI-Advancements-to-Expect-in-the-Next-10-Years-scaled.jpeg"
           },
           "additionalType": "https://schema.org/Service",
           "offers": {
